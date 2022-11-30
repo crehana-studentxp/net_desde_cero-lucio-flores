@@ -23,7 +23,7 @@
 
 ### Tecnologías usadas
 
-El curso, sus ejemplos y proyectos propuestos están desarrollados en React.
+El curso, sus ejemplos y proyectos propuestos están desarrollados en .NET y C#.
 Recomendamos el uso de VSCode como editor de código.
 
 * [VS Code](https://code.visualstudio.com)
